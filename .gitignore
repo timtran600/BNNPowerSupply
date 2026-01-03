@@ -1,0 +1,69 @@
+# Vivado junk
+*.jou
+*.log
+*.str
+*.xpr
+*.cache/
+*.runs/
+*.hw/
+*.sim/
+*.ip_user_files/
+.Xil/
+vivado*.backup.*
+*.debug
+
+# Vivado build artifacts
+*.bit
+*.bin
+*.ltx
+*.rpt
+*.dcp
+*.vdi
+*.wdb
+*.wcfg
+*.protoinst
+
+# Build artifacts
+build/
+fpga/build/
+
+# Python virtual environment
+.venv/
+venv/
+env/
+ENV/
+virtualenv/
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+*.egg
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.cproject
+.settings/
+
+# OS junk
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.old
+
+# Git merge files
+*.orig

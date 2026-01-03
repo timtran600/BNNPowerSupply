@@ -1,0 +1,14 @@
+C:/Users/theec/Documents/BNNPowerSupply/fpga/rtl/pkg/fpga_types_pkg.sv
+C:/Users/theec/Documents/BNNPowerSupply/fpga/rtl/interfaces/adc_parallel_if.sv
+C:/Users/theec/Documents/BNNPowerSupply/fpga/rtl/interfaces/spi_master.sv
+C:/Users/theec/Documents/BNNPowerSupply/fpga/rtl/interfaces/spi_slave.sv
+C:/Users/theec/Documents/BNNPowerSupply/fpga/rtl/acquisition/adc_controller.sv
+C:/Users/theec/Documents/BNNPowerSupply/fpga/rtl/acquisition/digital_filter.sv
+C:/Users/theec/Documents/BNNPowerSupply/fpga/rtl/acquisition/smaple_scheduler.sv
+C:/Users/theec/Documents/BNNPowerSupply/fpga/rtl/inference/bnn_engine.sv
+C:/Users/theec/Documents/BNNPowerSupply/fpga/rtl/inference/bnn_weights_rom.sv
+C:/Users/theec/Documents/BNNPowerSupply/fpga/rtl/inference/feature_extractor.sv
+C:/Users/theec/Documents/BNNPowerSupply/fpga/rtl/control/fault_registers.sv
+C:/Users/theec/Documents/BNNPowerSupply/fpga/rtl/control/register_file.sv
+C:/Users/theec/Documents/BNNPowerSupply/fpga/rtl/control/status_registers.sv
+C:/Users/theec/Documents/BNNPowerSupply/fpga/rtl/top/fpga_top.sv
