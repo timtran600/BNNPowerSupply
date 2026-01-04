@@ -1,0 +1,25 @@
+project:
+  name: smart_power_supply
+  part: xc7s25csga324-1
+  top: fpga_top
+
+sources:
+  rtl_dirs:
+    - rtl/pkg
+    - rtl/interfaces
+    - rtl/acquisition
+    - rtl/inference
+    - rtl/control
+    - rtl/top
+
+  ip_dirs:
+    - ip
+
+  xdc_dirs:
+    - constraints
+
+sim:
+  tb_dirs:
+    - sim/tb
+  model_dirs:
+    - sim/models
