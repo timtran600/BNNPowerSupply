@@ -2,9 +2,15 @@
   "version": "2.0.0",
   "tasks": [
     {
+      "label": "Activate venv",
+      "type": "shell",
+      "command": "source .venv/Scripts/activate",
+      "problemMatcher": []
+    },
+    {
       "label": "FPGA: Build",
       "type": "shell",
-      "command": "make fpga",
+      "command": "source .venv/Scripts/activate && make fpga",
       "group": {
         "kind": "build",
         "isDefault": true
